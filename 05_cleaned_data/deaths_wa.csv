@@ -1437,6 +1437,576 @@ Yamhill,41071.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,879.0
 Yamhill,41071.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,OR,41,Yamhill,Oregon,41071,OR,OR | YAMHILL,OR,4107141,101381.0,Yamhill
 Yamhill,41071.0,2015.0,2015.0,All other alcohol-induced causes,A9,16,OR,41,Yamhill,Oregon,41071,OR,OR | YAMHILL,OR,4107141,101381.0,Yamhill
 Yamhill,41071.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,908,OR,41,Yamhill,Oregon,41071,OR,OR | YAMHILL,OR,4107141,101381.0,Yamhill
+Adams,53001.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,122.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,18405.0,Adams
+Adams,53001.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,106.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,18790.0,Adams
+Adams,53001.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,104.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,18877.0,Adams
+Adams,53001.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,112.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,18944.0,Adams
+Adams,53001.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,120.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,19098.0,Adams
+Adams,53001.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,128.0,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,19177.0,Adams
+Adams,53001.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,132,WA,53,Adams,Washington,53001,WA,WA | ADAMS,WA,5300153,19233.0,Adams
+Asotin,53003.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,229.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,21415.0,Asotin
+Asotin,53003.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,183.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,21725.0,Asotin
+Asotin,53003.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,227.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,21971.0,Asotin
+Asotin,53003.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,251.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,21909.0,Asotin
+Asotin,53003.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,233.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,22129.0,Asotin
+Asotin,53003.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,227.0,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,22190.0,Asotin
+Asotin,53003.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,268,WA,53,Asotin,Washington,53003,WA,WA | ASOTIN,WA,5300353,22113.0,Asotin
+Benton,53005.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,17.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,171122.0,Benton
+Benton,53005.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1157.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,171122.0,Benton
+Benton,53005.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,176465.0,Benton
+Benton,53005.0,2010.0,2010.0,All other alcohol-induced causes,A9,15.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,176465.0,Benton
+Benton,53005.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1238.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,176465.0,Benton
+Benton,53005.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,16.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,180436.0,Benton
+Benton,53005.0,2011.0,2011.0,All other alcohol-induced causes,A9,24.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,180436.0,Benton
+Benton,53005.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1202.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,180436.0,Benton
+Benton,53005.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,16.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,182373.0,Benton
+Benton,53005.0,2012.0,2012.0,All other alcohol-induced causes,A9,19.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,182373.0,Benton
+Benton,53005.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1201.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,182373.0,Benton
+Benton,53005.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,18.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,184318.0,Benton
+Benton,53005.0,2013.0,2013.0,All other alcohol-induced causes,A9,33.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,184318.0,Benton
+Benton,53005.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1218.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,184318.0,Benton
+Benton,53005.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,20.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,186489.0,Benton
+Benton,53005.0,2014.0,2014.0,All other alcohol-induced causes,A9,27.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,186489.0,Benton
+Benton,53005.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1263.0,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,186489.0,Benton
+Benton,53005.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,190218.0,Benton
+Benton,53005.0,2015.0,2015.0,All other alcohol-induced causes,A9,20,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,190218.0,Benton
+Benton,53005.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,1415,WA,53,Benton,Washington,53005,WA,WA | BENTON,WA,5300553,190218.0,Benton
+Chelan,53007.0,2009.0,2009.0,All other alcohol-induced causes,A9,13.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,71679.0,Chelan
+Chelan,53007.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,600.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,71679.0,Chelan
+Chelan,53007.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,72750.0,Chelan
+Chelan,53007.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,570.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,72750.0,Chelan
+Chelan,53007.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73214.0,Chelan
+Chelan,53007.0,2011.0,2011.0,All other alcohol-induced causes,A9,10.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73214.0,Chelan
+Chelan,53007.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,647.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73214.0,Chelan
+Chelan,53007.0,2012.0,2012.0,All other alcohol-induced causes,A9,14.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73472.0,Chelan
+Chelan,53007.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,618.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73472.0,Chelan
+Chelan,53007.0,2013.0,2013.0,All other alcohol-induced causes,A9,16.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73723.0,Chelan
+Chelan,53007.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,663.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,73723.0,Chelan
+Chelan,53007.0,2014.0,2014.0,All other alcohol-induced causes,A9,23.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,74121.0,Chelan
+Chelan,53007.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,698.0,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,74121.0,Chelan
+Chelan,53007.0,2015.0,2015.0,All other alcohol-induced causes,A9,12,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,75041.0,Chelan
+Chelan,53007.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,674,WA,53,Chelan,Washington,53007,WA,WA | CHELAN,WA,5300753,75041.0,Chelan
+Clallam,53009.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71077.0,Clallam
+Clallam,53009.0,2009.0,2009.0,All other alcohol-induced causes,A9,13.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71077.0,Clallam
+Clallam,53009.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,892.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71077.0,Clallam
+Clallam,53009.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71503.0,Clallam
+Clallam,53009.0,2010.0,2010.0,All other alcohol-induced causes,A9,10.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71503.0,Clallam
+Clallam,53009.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,856.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71503.0,Clallam
+Clallam,53009.0,2011.0,2011.0,All other alcohol-induced causes,A9,16.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71762.0,Clallam
+Clallam,53009.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,924.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71762.0,Clallam
+Clallam,53009.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,12.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71766.0,Clallam
+Clallam,53009.0,2012.0,2012.0,All other alcohol-induced causes,A9,14.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71766.0,Clallam
+Clallam,53009.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,868.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,71766.0,Clallam
+Clallam,53009.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,15.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,72046.0,Clallam
+Clallam,53009.0,2013.0,2013.0,All other alcohol-induced causes,A9,14.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,72046.0,Clallam
+Clallam,53009.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,913.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,72046.0,Clallam
+Clallam,53009.0,2014.0,2014.0,All other alcohol-induced causes,A9,17.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,72467.0,Clallam
+Clallam,53009.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,921.0,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,72467.0,Clallam
+Clallam,53009.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,73202.0,Clallam
+Clallam,53009.0,2015.0,2015.0,All other alcohol-induced causes,A9,19,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,73202.0,Clallam
+Clallam,53009.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,925,WA,53,Clallam,Washington,53009,WA,WA | CLALLAM,WA,5300953,73202.0,Clallam
+Clark,53011.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,44.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,421236.0,Clark
+Clark,53011.0,2009.0,2009.0,Drug poisonings (overdose) Suicide (X60-X64),D2,15.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,421236.0,Clark
+Clark,53011.0,2009.0,2009.0,All other alcohol-induced causes,A9,50.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,421236.0,Clark
+Clark,53011.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,2733.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,421236.0,Clark
+Clark,53011.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,37.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,426704.0,Clark
+Clark,53011.0,2010.0,2010.0,Drug poisonings (overdose) Suicide (X60-X64),D2,13.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,426704.0,Clark
+Clark,53011.0,2010.0,2010.0,All other alcohol-induced causes,A9,38.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,426704.0,Clark
+Clark,53011.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,2764.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,426704.0,Clark
+Clark,53011.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,43.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,432283.0,Clark
+Clark,53011.0,2011.0,2011.0,Drug poisonings (overdose) Suicide (X60-X64),D2,12.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,432283.0,Clark
+Clark,53011.0,2011.0,2011.0,All other alcohol-induced causes,A9,40.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,432283.0,Clark
+Clark,53011.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,2918.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,432283.0,Clark
+Clark,53011.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,52.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,436361.0,Clark
+Clark,53011.0,2012.0,2012.0,Drug poisonings (overdose) Suicide (X60-X64),D2,10.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,436361.0,Clark
+Clark,53011.0,2012.0,2012.0,All other alcohol-induced causes,A9,47.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,436361.0,Clark
+Clark,53011.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,2891.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,436361.0,Clark
+Clark,53011.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,46.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,441341.0,Clark
+Clark,53011.0,2013.0,2013.0,Drug poisonings (overdose) Suicide (X60-X64),D2,11.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,441341.0,Clark
+Clark,53011.0,2013.0,2013.0,All other alcohol-induced causes,A9,56.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,441341.0,Clark
+Clark,53011.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,3004.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,441341.0,Clark
+Clark,53011.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,45.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,448202.0,Clark
+Clark,53011.0,2014.0,2014.0,Drug poisonings (overdose) Suicide (X60-X64),D2,14.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,448202.0,Clark
+Clark,53011.0,2014.0,2014.0,All other alcohol-induced causes,A9,69.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,448202.0,Clark
+Clark,53011.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,3158.0,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,448202.0,Clark
+Clark,53011.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,456939.0,Clark
+Clark,53011.0,2015.0,2015.0,All other alcohol-induced causes,A9,62,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,456939.0,Clark
+Clark,53011.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,3315,WA,53,Clark,Washington,53011,WA,WA | CLARK,WA,5301153,456939.0,Clark
+Columbia,53013.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,39.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,3977.0,Columbia
+Columbia,53013.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,59.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,4094.0,Columbia
+Columbia,53013.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,57.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,4005.0,Columbia
+Columbia,53013.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,39.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,3977.0,Columbia
+Columbia,53013.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,50.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,4002.0,Columbia
+Columbia,53013.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,51.0,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,3985.0,Columbia
+Columbia,53013.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,59,WA,53,Columbia,Washington,53013,WA,WA | COLUMBIA,WA,5301353,3960.0,Columbia
+Cowlitz,53015.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,18.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102126.0,Cowlitz
+Cowlitz,53015.0,2009.0,2009.0,All other alcohol-induced causes,A9,21.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102126.0,Cowlitz
+Cowlitz,53015.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,941.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102126.0,Cowlitz
+Cowlitz,53015.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102358.0,Cowlitz
+Cowlitz,53015.0,2010.0,2010.0,All other alcohol-induced causes,A9,22.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102358.0,Cowlitz
+Cowlitz,53015.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,940.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102358.0,Cowlitz
+Cowlitz,53015.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,27.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102309.0,Cowlitz
+Cowlitz,53015.0,2011.0,2011.0,All other alcohol-induced causes,A9,31.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102309.0,Cowlitz
+Cowlitz,53015.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,951.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102309.0,Cowlitz
+Cowlitz,53015.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,23.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101663.0,Cowlitz
+Cowlitz,53015.0,2012.0,2012.0,All other alcohol-induced causes,A9,23.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101663.0,Cowlitz
+Cowlitz,53015.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,989.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101663.0,Cowlitz
+Cowlitz,53015.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,21.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101483.0,Cowlitz
+Cowlitz,53015.0,2013.0,2013.0,All other alcohol-induced causes,A9,20.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101483.0,Cowlitz
+Cowlitz,53015.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1045.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101483.0,Cowlitz
+Cowlitz,53015.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,21.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101790.0,Cowlitz
+Cowlitz,53015.0,2014.0,2014.0,All other alcohol-induced causes,A9,29.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101790.0,Cowlitz
+Cowlitz,53015.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1057.0,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,101790.0,Cowlitz
+Cowlitz,53015.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102999.0,Cowlitz
+Cowlitz,53015.0,2015.0,2015.0,All other alcohol-induced causes,A9,25,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102999.0,Cowlitz
+Cowlitz,53015.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,1106,WA,53,Cowlitz,Washington,53015,WA,WA | COWLITZ,WA,5301553,102999.0,Cowlitz
+Douglas,53017.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,273.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,37935.0,Douglas
+Douglas,53017.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,289.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,38514.0,Douglas
+Douglas,53017.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,281.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,38662.0,Douglas
+Douglas,53017.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,298.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,39197.0,Douglas
+Douglas,53017.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,291.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,39387.0,Douglas
+Douglas,53017.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,308.0,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,39773.0,Douglas
+Douglas,53017.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,304,WA,53,Douglas,Washington,53017,WA,WA | DOUGLAS,WA,5301753,40545.0,Douglas
+Ferry,53019.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,70.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7538.0,Ferry
+Ferry,53019.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,74.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7545.0,Ferry
+Ferry,53019.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,83.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7639.0,Ferry
+Ferry,53019.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,78.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7663.0,Ferry
+Ferry,53019.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,84.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7594.0,Ferry
+Ferry,53019.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,74.0,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7592.0,Ferry
+Ferry,53019.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,69,WA,53,Ferry,Washington,53019,WA,WA | FERRY,WA,5301953,7520.0,Ferry
+Franklin,53021.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,353.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,74478.0,Franklin
+Franklin,53021.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,311.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,79077.0,Franklin
+Franklin,53021.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,366.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,83051.0,Franklin
+Franklin,53021.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,343.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,85698.0,Franklin
+Franklin,53021.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,351.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,86448.0,Franklin
+Franklin,53021.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,346.0,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,87665.0,Franklin
+Franklin,53021.0,2015.0,2015.0,All other alcohol-induced causes,A9,10,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,88727.0,Franklin
+Franklin,53021.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,351,WA,53,Franklin,Washington,53021,WA,WA | FRANKLIN,WA,5302153,88727.0,Franklin
+Garfield,53023.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,27.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2237.0,Garfield
+Garfield,53023.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,26.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2261.0,Garfield
+Garfield,53023.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,36.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2237.0,Garfield
+Garfield,53023.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,30.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2209.0,Garfield
+Garfield,53023.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,26.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2237.0,Garfield
+Garfield,53023.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,12.0,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2201.0,Garfield
+Garfield,53023.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,31,WA,53,Garfield,Washington,53023,WA,WA | GARFIELD,WA,5302353,2222.0,Garfield
+Grant,53025.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,17.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,87340.0,Grant
+Grant,53025.0,2009.0,2009.0,All other alcohol-induced causes,A9,10.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,87340.0,Grant
+Grant,53025.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,574.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,87340.0,Grant
+Grant,53025.0,2010.0,2010.0,All other alcohol-induced causes,A9,13.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,89558.0,Grant
+Grant,53025.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,614.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,89558.0,Grant
+Grant,53025.0,2011.0,2011.0,All other alcohol-induced causes,A9,13.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,90594.0,Grant
+Grant,53025.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,644.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,90594.0,Grant
+Grant,53025.0,2012.0,2012.0,All other alcohol-induced causes,A9,13.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,91300.0,Grant
+Grant,53025.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,637.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,91300.0,Grant
+Grant,53025.0,2013.0,2013.0,All other alcohol-induced causes,A9,15.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,91701.0,Grant
+Grant,53025.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,651.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,91701.0,Grant
+Grant,53025.0,2014.0,2014.0,All other alcohol-induced causes,A9,10.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,92897.0,Grant
+Grant,53025.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,625.0,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,92897.0,Grant
+Grant,53025.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,93527.0,Grant
+Grant,53025.0,2015.0,2015.0,All other alcohol-induced causes,A9,14,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,93527.0,Grant
+Grant,53025.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,655,WA,53,Grant,Washington,53025,WA,WA | GRANT,WA,5302553,93527.0,Grant
+Grays Harbor,53027.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,16.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72468.0,Grays Harbor
+Grays Harbor,53027.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,737.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72468.0,Grays Harbor
+Grays Harbor,53027.0,2010.0,2010.0,All other alcohol-induced causes,A9,15.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72848.0,Grays Harbor
+Grays Harbor,53027.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,725.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72848.0,Grays Harbor
+Grays Harbor,53027.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72366.0,Grays Harbor
+Grays Harbor,53027.0,2011.0,2011.0,All other alcohol-induced causes,A9,14.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72366.0,Grays Harbor
+Grays Harbor,53027.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,738.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,72366.0,Grays Harbor
+Grays Harbor,53027.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71773.0,Grays Harbor
+Grays Harbor,53027.0,2012.0,2012.0,All other alcohol-induced causes,A9,14.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71773.0,Grays Harbor
+Grays Harbor,53027.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,776.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71773.0,Grays Harbor
+Grays Harbor,53027.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,12.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71046.0,Grays Harbor
+Grays Harbor,53027.0,2013.0,2013.0,All other alcohol-induced causes,A9,18.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71046.0,Grays Harbor
+Grays Harbor,53027.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,774.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71046.0,Grays Harbor
+Grays Harbor,53027.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,15.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,70780.0,Grays Harbor
+Grays Harbor,53027.0,2014.0,2014.0,All other alcohol-induced causes,A9,20.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,70780.0,Grays Harbor
+Grays Harbor,53027.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,783.0,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,70780.0,Grays Harbor
+Grays Harbor,53027.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71011.0,Grays Harbor
+Grays Harbor,53027.0,2015.0,2015.0,All other alcohol-induced causes,A9,16,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71011.0,Grays Harbor
+Grays Harbor,53027.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,759,WA,53,Grays Harbor,Washington,53027,WA,WA | GRAYS HARBOR,WA,5302753,71011.0,Grays Harbor
+Island,53029.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,584.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78248.0,Island
+Island,53029.0,2010.0,2010.0,All other alcohol-induced causes,A9,13.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78693.0,Island
+Island,53029.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,610.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78693.0,Island
+Island,53029.0,2011.0,2011.0,All other alcohol-induced causes,A9,12.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78941.0,Island
+Island,53029.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,622.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78941.0,Island
+Island,53029.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,79039.0,Island
+Island,53029.0,2012.0,2012.0,All other alcohol-induced causes,A9,14.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,79039.0,Island
+Island,53029.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,631.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,79039.0,Island
+Island,53029.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,624.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78198.0,Island
+Island,53029.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78690.0,Island
+Island,53029.0,2014.0,2014.0,All other alcohol-induced causes,A9,17.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78690.0,Island
+Island,53029.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,647.0,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,78690.0,Island
+Island,53029.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,80022.0,Island
+Island,53029.0,2015.0,2015.0,All other alcohol-induced causes,A9,15,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,80022.0,Island
+Island,53029.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,735,WA,53,Island,Washington,53029,WA,WA | ISLAND,WA,5302953,80022.0,Island
+Jefferson,53031.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,306.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,29714.0,Jefferson
+Jefferson,53031.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,341.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,29899.0,Jefferson
+Jefferson,53031.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,336.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,29853.0,Jefferson
+Jefferson,53031.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,312.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,29800.0,Jefferson
+Jefferson,53031.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,317.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,30004.0,Jefferson
+Jefferson,53031.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,328.0,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,30147.0,Jefferson
+Jefferson,53031.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,370,WA,53,Jefferson,Washington,53031,WA,WA | JEFFERSON,WA,5303153,30339.0,Jefferson
+King,53033.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,203.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1912012.0,King
+King,53033.0,2009.0,2009.0,Drug poisonings (overdose) Suicide (X60-X64),D2,28.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1912012.0,King
+King,53033.0,2009.0,2009.0,All other drug-induced causes,D9,15.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1912012.0,King
+King,53033.0,2009.0,2009.0,All other alcohol-induced causes,A9,160.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1912012.0,King
+King,53033.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,11173.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1912012.0,King
+King,53033.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,191.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1938351.0,King
+King,53033.0,2010.0,2010.0,Drug poisonings (overdose) Suicide (X60-X64),D2,47.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1938351.0,King
+King,53033.0,2010.0,2010.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,12.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1938351.0,King
+King,53033.0,2010.0,2010.0,All other alcohol-induced causes,A9,187.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1938351.0,King
+King,53033.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,11308.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1938351.0,King
+King,53033.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,179.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2011.0,2011.0,Drug poisonings (overdose) Suicide (X60-X64),D2,45.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2011.0,2011.0,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2011.0,2011.0,All other drug-induced causes,D9,14.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2011.0,2011.0,All other alcohol-induced causes,A9,187.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,11648.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,1974200.0,King
+King,53033.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,201.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2012.0,2012.0,Drug poisonings (overdose) Suicide (X60-X64),D2,50.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2012.0,2012.0,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2012.0,2012.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,14.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2012.0,2012.0,All other alcohol-induced causes,A9,204.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,11810.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2011197.0,King
+King,53033.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,242.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2047223.0,King
+King,53033.0,2013.0,2013.0,Drug poisonings (overdose) Suicide (X60-X64),D2,34.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2047223.0,King
+King,53033.0,2013.0,2013.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,13.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2047223.0,King
+King,53033.0,2013.0,2013.0,All other alcohol-induced causes,A9,230.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2047223.0,King
+King,53033.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,11941.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2047223.0,King
+King,53033.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,251.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2014.0,2014.0,Drug poisonings (overdose) Suicide (X60-X64),D2,42.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2014.0,2014.0,All other drug-induced causes,D9,16.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2014.0,2014.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,15.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2014.0,2014.0,All other alcohol-induced causes,A9,201.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,12109.0,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2085225.0,King
+King,53033.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,241,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,Drug poisonings (overdose) Suicide (X60-X64),D2,34,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,All other drug-induced causes,D9,23,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,13,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,All other alcohol-induced causes,A9,208,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+King,53033.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,12188,WA,53,King,Washington,53033,WA,WA | KING,WA,5303353,2126178.0,King
+Kitsap,53035.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,24.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,248800.0,Kitsap
+Kitsap,53035.0,2009.0,2009.0,All other alcohol-induced causes,A9,40.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,248800.0,Kitsap
+Kitsap,53035.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1904.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,248800.0,Kitsap
+Kitsap,53035.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,19.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,251681.0,Kitsap
+Kitsap,53035.0,2010.0,2010.0,All other alcohol-induced causes,A9,37.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,251681.0,Kitsap
+Kitsap,53035.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1900.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,251681.0,Kitsap
+Kitsap,53035.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,25.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254297.0,Kitsap
+Kitsap,53035.0,2011.0,2011.0,All other alcohol-induced causes,A9,35.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254297.0,Kitsap
+Kitsap,53035.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1875.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254297.0,Kitsap
+Kitsap,53035.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,20.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254339.0,Kitsap
+Kitsap,53035.0,2012.0,2012.0,All other alcohol-induced causes,A9,33.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254339.0,Kitsap
+Kitsap,53035.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1905.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,254339.0,Kitsap
+Kitsap,53035.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,16.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,252401.0,Kitsap
+Kitsap,53035.0,2013.0,2013.0,All other alcohol-induced causes,A9,40.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,252401.0,Kitsap
+Kitsap,53035.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1926.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,252401.0,Kitsap
+Kitsap,53035.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,20.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,253387.0,Kitsap
+Kitsap,53035.0,2014.0,2014.0,All other alcohol-induced causes,A9,54.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,253387.0,Kitsap
+Kitsap,53035.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,2058.0,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,253387.0,Kitsap
+Kitsap,53035.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,259232.0,Kitsap
+Kitsap,53035.0,2015.0,2015.0,All other alcohol-induced causes,A9,44,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,259232.0,Kitsap
+Kitsap,53035.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,2057,WA,53,Kitsap,Washington,53035,WA,WA | KITSAP,WA,5303553,259232.0,Kitsap
+Kittitas,53037.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,256.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,40466.0,Kittitas
+Kittitas,53037.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,271.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,40990.0,Kittitas
+Kittitas,53037.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,272.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,41554.0,Kittitas
+Kittitas,53037.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,258.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,41624.0,Kittitas
+Kittitas,53037.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,292.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,41828.0,Kittitas
+Kittitas,53037.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,251.0,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,42596.0,Kittitas
+Kittitas,53037.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,294,WA,53,Kittitas,Washington,53037,WA,WA | KITTITAS,WA,5303753,43095.0,Kittitas
+Klickitat,53039.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,174.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20164.0,Klickitat
+Klickitat,53039.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,152.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20376.0,Klickitat
+Klickitat,53039.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,188.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20689.0,Klickitat
+Klickitat,53039.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,178.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20638.0,Klickitat
+Klickitat,53039.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,158.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20871.0,Klickitat
+Klickitat,53039.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,179.0,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,20863.0,Klickitat
+Klickitat,53039.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,149,WA,53,Klickitat,Washington,53039,WA,WA | KLICKITAT,WA,5303953,21005.0,Klickitat
+Lewis,53041.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75316.0,Lewis
+Lewis,53041.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,768.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75316.0,Lewis
+Lewis,53041.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,11.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75502.0,Lewis
+Lewis,53041.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,763.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75502.0,Lewis
+Lewis,53041.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,17.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75668.0,Lewis
+Lewis,53041.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,811.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75668.0,Lewis
+Lewis,53041.0,2012.0,2012.0,All other alcohol-induced causes,A9,16.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75435.0,Lewis
+Lewis,53041.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,818.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75435.0,Lewis
+Lewis,53041.0,2013.0,2013.0,All other alcohol-induced causes,A9,11.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,74962.0,Lewis
+Lewis,53041.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,782.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,74962.0,Lewis
+Lewis,53041.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,74844.0,Lewis
+Lewis,53041.0,2014.0,2014.0,All other alcohol-induced causes,A9,10.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,74844.0,Lewis
+Lewis,53041.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,775.0,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,74844.0,Lewis
+Lewis,53041.0,2015.0,2015.0,All other alcohol-induced causes,A9,19,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75437.0,Lewis
+Lewis,53041.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,868,WA,53,Lewis,Washington,53041,WA,WA | LEWIS,WA,5304153,75437.0,Lewis
+Lincoln,53043.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,115.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10570.0,Lincoln
+Lincoln,53043.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,127.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10573.0,Lincoln
+Lincoln,53043.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,107.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10526.0,Lincoln
+Lincoln,53043.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,106.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10429.0,Lincoln
+Lincoln,53043.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,106.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10295.0,Lincoln
+Lincoln,53043.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,100.0,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10224.0,Lincoln
+Lincoln,53043.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,97,WA,53,Lincoln,Washington,53043,WA,WA | LINCOLN,WA,5304353,10285.0,Lincoln
+Mason,53045.0,2009.0,2009.0,All other alcohol-induced causes,A9,15.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60333.0,Mason
+Mason,53045.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,535.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60333.0,Mason
+Mason,53045.0,2010.0,2010.0,All other alcohol-induced causes,A9,16.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60733.0,Mason
+Mason,53045.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,557.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60733.0,Mason
+Mason,53045.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,607.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60870.0,Mason
+Mason,53045.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60681.0,Mason
+Mason,53045.0,2012.0,2012.0,All other alcohol-induced causes,A9,14.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60681.0,Mason
+Mason,53045.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,580.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60681.0,Mason
+Mason,53045.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60474.0,Mason
+Mason,53045.0,2013.0,2013.0,All other alcohol-induced causes,A9,11.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60474.0,Mason
+Mason,53045.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,618.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60474.0,Mason
+Mason,53045.0,2014.0,2014.0,All other alcohol-induced causes,A9,14.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60604.0,Mason
+Mason,53045.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,597.0,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60604.0,Mason
+Mason,53045.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60991.0,Mason
+Mason,53045.0,2015.0,2015.0,All other alcohol-induced causes,A9,14,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60991.0,Mason
+Mason,53045.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,651,WA,53,Mason,Washington,53045,WA,WA | MASON,WA,5304553,60991.0,Mason
+Okanogan,53047.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,398.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,40699.0,Okanogan
+Okanogan,53047.0,2010.0,2010.0,All other alcohol-induced causes,A9,11.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41229.0,Okanogan
+Okanogan,53047.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,359.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41229.0,Okanogan
+Okanogan,53047.0,2011.0,2011.0,All other alcohol-induced causes,A9,16.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41334.0,Okanogan
+Okanogan,53047.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,404.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41334.0,Okanogan
+Okanogan,53047.0,2012.0,2012.0,All other alcohol-induced causes,A9,11.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41183.0,Okanogan
+Okanogan,53047.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,404.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41183.0,Okanogan
+Okanogan,53047.0,2013.0,2013.0,All other alcohol-induced causes,A9,12.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41053.0,Okanogan
+Okanogan,53047.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,380.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41053.0,Okanogan
+Okanogan,53047.0,2014.0,2014.0,All other alcohol-induced causes,A9,16.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41236.0,Okanogan
+Okanogan,53047.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,399.0,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41236.0,Okanogan
+Okanogan,53047.0,2015.0,2015.0,All other alcohol-induced causes,A9,11,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41356.0,Okanogan
+Okanogan,53047.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,450,WA,53,Okanogan,Washington,53047,WA,WA | OKANOGAN,WA,5304753,41356.0,Okanogan
+Pacific,53049.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,319.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,21026.0,Pacific
+Pacific,53049.0,2010.0,2010.0,All other alcohol-induced causes,A9,12.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20879.0,Pacific
+Pacific,53049.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,273.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20879.0,Pacific
+Pacific,53049.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,280.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20884.0,Pacific
+Pacific,53049.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,274.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20582.0,Pacific
+Pacific,53049.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,283.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20442.0,Pacific
+Pacific,53049.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,303.0,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20564.0,Pacific
+Pacific,53049.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,324,WA,53,Pacific,Washington,53049,WA,WA | PACIFIC,WA,5304953,20869.0,Pacific
+Pend Oreille,53051.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,142.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,13043.0,Pend Oreille
+Pend Oreille,53051.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,137.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,12950.0,Pend Oreille
+Pend Oreille,53051.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,132.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,12954.0,Pend Oreille
+Pend Oreille,53051.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,140.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,13003.0,Pend Oreille
+Pend Oreille,53051.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,140.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,12885.0,Pend Oreille
+Pend Oreille,53051.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,133.0,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,12919.0,Pend Oreille
+Pend Oreille,53051.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,134,WA,53,Pend Oreille,Washington,53051,WA,WA | PEND OREILLE,WA,5305153,13087.0,Pend Oreille
+Pierce,53053.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,102.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,796483.0,Pierce
+Pierce,53053.0,2009.0,2009.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,10.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,796483.0,Pierce
+Pierce,53053.0,2009.0,2009.0,All other alcohol-induced causes,A9,90.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,796483.0,Pierce
+Pierce,53053.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,5536.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,796483.0,Pierce
+Pierce,53053.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,84.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,795390.0,Pierce
+Pierce,53053.0,2010.0,2010.0,Drug poisonings (overdose) Suicide (X60-X64),D2,29.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,795390.0,Pierce
+Pierce,53053.0,2010.0,2010.0,All other alcohol-induced causes,A9,105.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,795390.0,Pierce
+Pierce,53053.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,5449.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,795390.0,Pierce
+Pierce,53053.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,98.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,807623.0,Pierce
+Pierce,53053.0,2011.0,2011.0,Drug poisonings (overdose) Suicide (X60-X64),D2,30.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,807623.0,Pierce
+Pierce,53053.0,2011.0,2011.0,All other drug-induced causes,D9,11.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,807623.0,Pierce
+Pierce,53053.0,2011.0,2011.0,All other alcohol-induced causes,A9,95.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,807623.0,Pierce
+Pierce,53053.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,5514.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,807623.0,Pierce
+Pierce,53053.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,80.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,815535.0,Pierce
+Pierce,53053.0,2012.0,2012.0,Drug poisonings (overdose) Suicide (X60-X64),D2,29.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,815535.0,Pierce
+Pierce,53053.0,2012.0,2012.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,11.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,815535.0,Pierce
+Pierce,53053.0,2012.0,2012.0,All other alcohol-induced causes,A9,119.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,815535.0,Pierce
+Pierce,53053.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,5435.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,815535.0,Pierce
+Pierce,53053.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,97.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,821012.0,Pierce
+Pierce,53053.0,2013.0,2013.0,Drug poisonings (overdose) Suicide (X60-X64),D2,25.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,821012.0,Pierce
+Pierce,53053.0,2013.0,2013.0,All other alcohol-induced causes,A9,120.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,821012.0,Pierce
+Pierce,53053.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,5761.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,821012.0,Pierce
+Pierce,53053.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,94.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,832696.0,Pierce
+Pierce,53053.0,2014.0,2014.0,Drug poisonings (overdose) Suicide (X60-X64),D2,30.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,832696.0,Pierce
+Pierce,53053.0,2014.0,2014.0,All other drug-induced causes,D9,12.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,832696.0,Pierce
+Pierce,53053.0,2014.0,2014.0,All other alcohol-induced causes,A9,109.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,832696.0,Pierce
+Pierce,53053.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,5893.0,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,832696.0,Pierce
+Pierce,53053.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,110,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,843778.0,Pierce
+Pierce,53053.0,2015.0,2015.0,Drug poisonings (overdose) Suicide (X60-X64),D2,30,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,843778.0,Pierce
+Pierce,53053.0,2015.0,2015.0,All other drug-induced causes,D9,16,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,843778.0,Pierce
+Pierce,53053.0,2015.0,2015.0,All other alcohol-induced causes,A9,128,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,843778.0,Pierce
+Pierce,53053.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,6152,WA,53,Pierce,Washington,53053,WA,WA | PIERCE,WA,5305353,843778.0,Pierce
+San Juan,53055.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,112.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,15714.0,San Juan
+San Juan,53055.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,107.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,15783.0,San Juan
+San Juan,53055.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,131.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,15845.0,San Juan
+San Juan,53055.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,140.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,15848.0,San Juan
+San Juan,53055.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,128.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,15909.0,San Juan
+San Juan,53055.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,146.0,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,16009.0,San Juan
+San Juan,53055.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,144,WA,53,San Juan,Washington,53055,WA,WA | SAN JUAN,WA,5305553,16198.0,San Juan
+Skagit,53057.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,20.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116557.0,Skagit
+Skagit,53057.0,2009.0,2009.0,All other alcohol-induced causes,A9,19.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116557.0,Skagit
+Skagit,53057.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1065.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116557.0,Skagit
+Skagit,53057.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,16.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116944.0,Skagit
+Skagit,53057.0,2010.0,2010.0,All other alcohol-induced causes,A9,17.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116944.0,Skagit
+Skagit,53057.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1044.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,116944.0,Skagit
+Skagit,53057.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,15.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117578.0,Skagit
+Skagit,53057.0,2011.0,2011.0,All other alcohol-induced causes,A9,25.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117578.0,Skagit
+Skagit,53057.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1075.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117578.0,Skagit
+Skagit,53057.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,17.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117714.0,Skagit
+Skagit,53057.0,2012.0,2012.0,All other alcohol-induced causes,A9,20.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117714.0,Skagit
+Skagit,53057.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1030.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,117714.0,Skagit
+Skagit,53057.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,23.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,118255.0,Skagit
+Skagit,53057.0,2013.0,2013.0,All other alcohol-induced causes,A9,20.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,118255.0,Skagit
+Skagit,53057.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1027.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,118255.0,Skagit
+Skagit,53057.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,10.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,119966.0,Skagit
+Skagit,53057.0,2014.0,2014.0,All other alcohol-induced causes,A9,25.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,119966.0,Skagit
+Skagit,53057.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1089.0,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,119966.0,Skagit
+Skagit,53057.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,121559.0,Skagit
+Skagit,53057.0,2015.0,2015.0,All other alcohol-induced causes,A9,32,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,121559.0,Skagit
+Skagit,53057.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,1131,WA,53,Skagit,Washington,53057,WA,WA | SKAGIT,WA,5305753,121559.0,Skagit
+Skamania,53059.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,76.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,10955.0,Skamania
+Skamania,53059.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,80.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11116.0,Skamania
+Skamania,53059.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,78.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11154.0,Skamania
+Skamania,53059.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,85.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11200.0,Skamania
+Skamania,53059.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,70.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11308.0,Skamania
+Skamania,53059.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,73.0,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11377.0,Skamania
+Skamania,53059.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,85,WA,53,Skamania,Washington,53059,WA,WA | SKAMANIA,WA,5305953,11375.0,Skamania
+Snohomish,53061.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,109.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,706302.0,Snohomish
+Snohomish,53061.0,2009.0,2009.0,Drug poisonings (overdose) Suicide (X60-X64),D2,16.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,706302.0,Snohomish
+Snohomish,53061.0,2009.0,2009.0,All other alcohol-induced causes,A9,77.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,706302.0,Snohomish
+Snohomish,53061.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,4240.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,706302.0,Snohomish
+Snohomish,53061.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,89.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,715500.0,Snohomish
+Snohomish,53061.0,2010.0,2010.0,Drug poisonings (overdose) Suicide (X60-X64),D2,19.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,715500.0,Snohomish
+Snohomish,53061.0,2010.0,2010.0,All other alcohol-induced causes,A9,81.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,715500.0,Snohomish
+Snohomish,53061.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,4271.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,715500.0,Snohomish
+Snohomish,53061.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,143.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,722068.0,Snohomish
+Snohomish,53061.0,2011.0,2011.0,Drug poisonings (overdose) Suicide (X60-X64),D2,25.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,722068.0,Snohomish
+Snohomish,53061.0,2011.0,2011.0,All other alcohol-induced causes,A9,87.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,722068.0,Snohomish
+Snohomish,53061.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,4407.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,722068.0,Snohomish
+Snohomish,53061.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,114.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,732097.0,Snohomish
+Snohomish,53061.0,2012.0,2012.0,Drug poisonings (overdose) Suicide (X60-X64),D2,17.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,732097.0,Snohomish
+Snohomish,53061.0,2012.0,2012.0,All other alcohol-induced causes,A9,90.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,732097.0,Snohomish
+Snohomish,53061.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,4441.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,732097.0,Snohomish
+Snohomish,53061.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,112.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,744112.0,Snohomish
+Snohomish,53061.0,2013.0,2013.0,Drug poisonings (overdose) Suicide (X60-X64),D2,14.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,744112.0,Snohomish
+Snohomish,53061.0,2013.0,2013.0,All other alcohol-induced causes,A9,86.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,744112.0,Snohomish
+Snohomish,53061.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,4641.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,744112.0,Snohomish
+Snohomish,53061.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,102.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,757239.0,Snohomish
+Snohomish,53061.0,2014.0,2014.0,Drug poisonings (overdose) Suicide (X60-X64),D2,22.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,757239.0,Snohomish
+Snohomish,53061.0,2014.0,2014.0,All other alcohol-induced causes,A9,89.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,757239.0,Snohomish
+Snohomish,53061.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,4731.0,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,757239.0,Snohomish
+Snohomish,53061.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,769698.0,Snohomish
+Snohomish,53061.0,2015.0,2015.0,Drug poisonings (overdose) Suicide (X60-X64),D2,13,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,769698.0,Snohomish
+Snohomish,53061.0,2015.0,2015.0,All other alcohol-induced causes,A9,122,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,769698.0,Snohomish
+Snohomish,53061.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,5046,WA,53,Snohomish,Washington,53061,WA,WA | SNOHOMISH,WA,5306153,769698.0,Snohomish
+Spokane,53063.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,74.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,468235.0,Spokane
+Spokane,53063.0,2009.0,2009.0,All other alcohol-induced causes,A9,66.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,468235.0,Spokane
+Spokane,53063.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,3833.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,468235.0,Spokane
+Spokane,53063.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,61.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,472081.0,Spokane
+Spokane,53063.0,2010.0,2010.0,Drug poisonings (overdose) Suicide (X60-X64),D2,14.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,472081.0,Spokane
+Spokane,53063.0,2010.0,2010.0,All other alcohol-induced causes,A9,68.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,472081.0,Spokane
+Spokane,53063.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,3777.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,472081.0,Spokane
+Spokane,53063.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,63.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,473436.0,Spokane
+Spokane,53063.0,2011.0,2011.0,Drug poisonings (overdose) Suicide (X60-X64),D2,10.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,473436.0,Spokane
+Spokane,53063.0,2011.0,2011.0,All other alcohol-induced causes,A9,64.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,473436.0,Spokane
+Spokane,53063.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,3866.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,473436.0,Spokane
+Spokane,53063.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,74.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,475447.0,Spokane
+Spokane,53063.0,2012.0,2012.0,Drug poisonings (overdose) Suicide (X60-X64),D2,10.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,475447.0,Spokane
+Spokane,53063.0,2012.0,2012.0,All other alcohol-induced causes,A9,74.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,475447.0,Spokane
+Spokane,53063.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,4012.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,475447.0,Spokane
+Spokane,53063.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,48.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,478332.0,Spokane
+Spokane,53063.0,2013.0,2013.0,Drug poisonings (overdose) Suicide (X60-X64),D2,15.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,478332.0,Spokane
+Spokane,53063.0,2013.0,2013.0,"Alcohol poisonings (overdose) (X45, X65, Y15)",A1,11.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,478332.0,Spokane
+Spokane,53063.0,2013.0,2013.0,All other alcohol-induced causes,A9,100.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,478332.0,Spokane
+Spokane,53063.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,4048.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,478332.0,Spokane
+Spokane,53063.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,50.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,482857.0,Spokane
+Spokane,53063.0,2014.0,2014.0,All other alcohol-induced causes,A9,76.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,482857.0,Spokane
+Spokane,53063.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,4010.0,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,482857.0,Spokane
+Spokane,53063.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,488610.0,Spokane
+Spokane,53063.0,2015.0,2015.0,Drug poisonings (overdose) Suicide (X60-X64),D2,18,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,488610.0,Spokane
+Spokane,53063.0,2015.0,2015.0,All other alcohol-induced causes,A9,101,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,488610.0,Spokane
+Spokane,53063.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,4393,WA,53,Spokane,Washington,53063,WA,WA | SPOKANE,WA,5306353,488610.0,Spokane
+Stevens,53065.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,391.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43548.0,Stevens
+Stevens,53065.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,392.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43472.0,Stevens
+Stevens,53065.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,419.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43453.0,Stevens
+Stevens,53065.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,397.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43483.0,Stevens
+Stevens,53065.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,386.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43271.0,Stevens
+Stevens,53065.0,2014.0,2014.0,All other alcohol-induced causes,A9,10.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43479.0,Stevens
+Stevens,53065.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,444.0,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43479.0,Stevens
+Stevens,53065.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,475,WA,53,Stevens,Washington,53065,WA,WA | STEVENS,WA,5306553,43553.0,Stevens
+Thurston,53067.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,28.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,249936.0,Thurston
+Thurston,53067.0,2009.0,2009.0,All other alcohol-induced causes,A9,28.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,249936.0,Thurston
+Thurston,53067.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1760.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,249936.0,Thurston
+Thurston,53067.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,22.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,253001.0,Thurston
+Thurston,53067.0,2010.0,2010.0,All other alcohol-induced causes,A9,39.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,253001.0,Thurston
+Thurston,53067.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1754.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,253001.0,Thurston
+Thurston,53067.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,27.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,256386.0,Thurston
+Thurston,53067.0,2011.0,2011.0,All other alcohol-induced causes,A9,32.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,256386.0,Thurston
+Thurston,53067.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1887.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,256386.0,Thurston
+Thurston,53067.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,25.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,258527.0,Thurston
+Thurston,53067.0,2012.0,2012.0,All other alcohol-induced causes,A9,29.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,258527.0,Thurston
+Thurston,53067.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1935.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,258527.0,Thurston
+Thurston,53067.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,25.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,261852.0,Thurston
+Thurston,53067.0,2013.0,2013.0,All other alcohol-induced causes,A9,30.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,261852.0,Thurston
+Thurston,53067.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1940.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,261852.0,Thurston
+Thurston,53067.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,20.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,264909.0,Thurston
+Thurston,53067.0,2014.0,2014.0,All other alcohol-induced causes,A9,40.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,264909.0,Thurston
+Thurston,53067.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1986.0,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,264909.0,Thurston
+Thurston,53067.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,267978.0,Thurston
+Thurston,53067.0,2015.0,2015.0,All other alcohol-induced causes,A9,30,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,267978.0,Thurston
+Thurston,53067.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,2167,WA,53,Thurston,Washington,53067,WA,WA | THURSTON,WA,5306753,267978.0,Thurston
+Wahkiakum,53069.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,37.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,3995.0,Wahkiakum
+Wahkiakum,53069.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,41.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,3983.0,Wahkiakum
+Wahkiakum,53069.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,52.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,3992.0,Wahkiakum
+Wahkiakum,53069.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,46.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,4000.0,Wahkiakum
+Wahkiakum,53069.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,56.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,4034.0,Wahkiakum
+Wahkiakum,53069.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,45.0,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,4043.0,Wahkiakum
+Wahkiakum,53069.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,45,WA,53,Wahkiakum,Washington,53069,WA,WA | WAHKIAKUM,WA,5306953,4023.0,Wahkiakum
+Walla Walla,53071.0,2009.0,2009.0,All other alcohol-induced causes,A9,11.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,58103.0,Walla Walla
+Walla Walla,53071.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,563.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,58103.0,Walla Walla
+Walla Walla,53071.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,526.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,58915.0,Walla Walla
+Walla Walla,53071.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,482.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59444.0,Walla Walla
+Walla Walla,53071.0,2012.0,2012.0,All other alcohol-induced causes,A9,19.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59329.0,Walla Walla
+Walla Walla,53071.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,532.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59329.0,Walla Walla
+Walla Walla,53071.0,2013.0,2013.0,All other alcohol-induced causes,A9,14.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59361.0,Walla Walla
+Walla Walla,53071.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,527.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59361.0,Walla Walla
+Walla Walla,53071.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59510.0,Walla Walla
+Walla Walla,53071.0,2014.0,2014.0,All other alcohol-induced causes,A9,10.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59510.0,Walla Walla
+Walla Walla,53071.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,554.0,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59510.0,Walla Walla
+Walla Walla,53071.0,2015.0,2015.0,All other alcohol-induced causes,A9,11,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59932.0,Walla Walla
+Walla Walla,53071.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,566,WA,53,Walla Walla,Washington,53071,WA,WA | WALLA WALLA,WA,5307153,59932.0,Walla Walla
+Whatcom,53073.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,18.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,199865.0,Whatcom
+Whatcom,53073.0,2009.0,2009.0,All other alcohol-induced causes,A9,19.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,199865.0,Whatcom
+Whatcom,53073.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1342.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,199865.0,Whatcom
+Whatcom,53073.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,201545.0,Whatcom
+Whatcom,53073.0,2010.0,2010.0,All other alcohol-induced causes,A9,15.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,201545.0,Whatcom
+Whatcom,53073.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1361.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,201545.0,Whatcom
+Whatcom,53073.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,19.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,203490.0,Whatcom
+Whatcom,53073.0,2011.0,2011.0,All other alcohol-induced causes,A9,22.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,203490.0,Whatcom
+Whatcom,53073.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1384.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,203490.0,Whatcom
+Whatcom,53073.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,204863.0,Whatcom
+Whatcom,53073.0,2012.0,2012.0,All other alcohol-induced causes,A9,31.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,204863.0,Whatcom
+Whatcom,53073.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1509.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,204863.0,Whatcom
+Whatcom,53073.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,13.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,206073.0,Whatcom
+Whatcom,53073.0,2013.0,2013.0,All other alcohol-induced causes,A9,26.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,206073.0,Whatcom
+Whatcom,53073.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1535.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,206073.0,Whatcom
+Whatcom,53073.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,208154.0,Whatcom
+Whatcom,53073.0,2014.0,2014.0,All other alcohol-induced causes,A9,26.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,208154.0,Whatcom
+Whatcom,53073.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1441.0,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,208154.0,Whatcom
+Whatcom,53073.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,211836.0,Whatcom
+Whatcom,53073.0,2015.0,2015.0,All other alcohol-induced causes,A9,39,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,211836.0,Whatcom
+Whatcom,53073.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,1559,WA,53,Whatcom,Washington,53073,WA,WA | WHATCOM,WA,5307353,211836.0,Whatcom
+Whitman,53075.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,226.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,44705.0,Whitman
+Whitman,53075.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,233.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,44796.0,Whitman
+Whitman,53075.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,244.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,45056.0,Whitman
+Whitman,53075.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,228.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,46633.0,Whitman
+Whitman,53075.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,252.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,46792.0,Whitman
+Whitman,53075.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,263.0,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,46918.0,Whitman
+Whitman,53075.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,288,WA,53,Whitman,Washington,53075,WA,WA | WHITMAN,WA,5307553,48164.0,Whitman
+Yakima,53077.0,2009.0,2009.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,17.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,239604.0,Yakima
+Yakima,53077.0,2009.0,2009.0,All other alcohol-induced causes,A9,35.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,239604.0,Yakima
+Yakima,53077.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,1822.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,239604.0,Yakima
+Yakima,53077.0,2010.0,2010.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,24.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,244256.0,Yakima
+Yakima,53077.0,2010.0,2010.0,All other alcohol-induced causes,A9,29.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,244256.0,Yakima
+Yakima,53077.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,1746.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,244256.0,Yakima
+Yakima,53077.0,2011.0,2011.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,245926.0,Yakima
+Yakima,53077.0,2011.0,2011.0,All other alcohol-induced causes,A9,30.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,245926.0,Yakima
+Yakima,53077.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,1772.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,245926.0,Yakima
+Yakima,53077.0,2012.0,2012.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,25.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246127.0,Yakima
+Yakima,53077.0,2012.0,2012.0,All other alcohol-induced causes,A9,22.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246127.0,Yakima
+Yakima,53077.0,2012.0,2012.0,All other non-drug and non-alcohol causes,O9,1775.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246127.0,Yakima
+Yakima,53077.0,2013.0,2013.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,14.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246485.0,Yakima
+Yakima,53077.0,2013.0,2013.0,All other alcohol-induced causes,A9,29.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246485.0,Yakima
+Yakima,53077.0,2013.0,2013.0,All other non-drug and non-alcohol causes,O9,1819.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246485.0,Yakima
+Yakima,53077.0,2014.0,2014.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,23.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246870.0,Yakima
+Yakima,53077.0,2014.0,2014.0,All other alcohol-induced causes,A9,46.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246870.0,Yakima
+Yakima,53077.0,2014.0,2014.0,All other non-drug and non-alcohol causes,O9,1797.0,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,246870.0,Yakima
+Yakima,53077.0,2015.0,2015.0,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,247800.0,Yakima
+Yakima,53077.0,2015.0,2015.0,All other alcohol-induced causes,A9,39,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,247800.0,Yakima
+Yakima,53077.0,2015.0,2015.0,All other non-drug and non-alcohol causes,O9,1875,WA,53,Yakima,Washington,53077,WA,WA | YAKIMA,WA,5307753,247800.0,Yakima
 Albany,56001.0,2009.0,2009.0,All other non-drug and non-alcohol causes,O9,164.0,WY,56,Albany,Wyoming,56001,WY,WY | ALBANY,WY,5600156,35743.0,Albany
 Albany,56001.0,2010.0,2010.0,All other non-drug and non-alcohol causes,O9,188.0,WY,56,Albany,Wyoming,56001,WY,WY | ALBANY,WY,5600156,36469.0,Albany
 Albany,56001.0,2011.0,2011.0,All other non-drug and non-alcohol causes,O9,176.0,WY,56,Albany,Wyoming,56001,WY,WY | ALBANY,WY,5600156,36851.0,Albany
