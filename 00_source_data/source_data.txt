@@ -1,9 +1,0 @@
-Since some of our data is too large to fit into git lfs, this txt file contains the original sources for the data we're using.
-Our cause of death data and county populations will fit, so we will also have the raw data for those in this folder.
-
-Opioid Prescriptions Database: https://www.washingtonpost.com/national/2019/07/18/how-download-use-dea-pain-pills-database/?arc404=true
-
-Mortality statistics: https://www.dropbox.com/s/kad4dwebr88l3ud/US_VitalStatistics.zip?dl=0
-
-County populations 2000-2010: https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-counties.html
-County populations 2010-2019: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
