@@ -3,6 +3,20 @@ Our cause of death data and county populations will fit, so we will also have th
 
 Opioid Prescriptions Database: https://www.washingtonpost.com/national/2019/07/18/how-download-use-dea-pain-pills-database/?arc404=true
 
+As an interesting caveat, the above data is missing some of the later years as it was only recently updated. Filtering (on the website) by our individual states solve this problem. Therefore, our solution was to load in the above data, as well as each individual state we're analyzing. For the individual states, we will only stack the 2013 and 2014 data on top of our existing data, as the website itself states that these are the years that are missing. Individual state data found below:
+
+Florida: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-fl-statewide-itemized.csv.gz
+*Florida comp states*
+PA: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-pa-statewide-itemized.csv.gz
+MI: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-mi-statewide-itemized.csv.gz
+NC: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-nc-statewide-itemized.csv.gz
+
+Washington: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-wa-statewide-itemized.csv.gz
+*WA comp states*
+NC: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-nc-statewide-itemized.csv.gz
+CO: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-co-statewide-itemized.csv.gz
+MD: https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/summary/arcos-md-statewide-itemized.csv.gz
+
 Mortality statistics: https://www.dropbox.com/s/kad4dwebr88l3ud/US_VitalStatistics.zip?dl=0
 
 County populations 2000-2010: https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-counties.html
