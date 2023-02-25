@@ -10,6 +10,6 @@ been implemented. My group and I analyzed the effectiveness of each policy to se
 
 # Findings
 
-We have a [final report](https://github.com/abzdel/Opioid-Analysis/blob/main/30_results/Final_Reports.pdf) that goes over findings for each state. This includes both a technical report intended to be read by a statistician as well as a non-technical report meant to be read by a policymaker (both in the same document).
+We have two final reports that go over findings for each state. This includes both a [technical report](https://github.com/abzdel/Opioid-Analysis/blob/main/30_results/technical_report.pdf) intended to be read by a statistician as well as a [non-technical report](https://github.com/abzdel/Opioid-Analysis/blob/main/30_results/policymaker_report.pdf) meant to be read by a policymaker.
 
 We also have a [PowerPoint presentation](https://github.com/abzdel/Opioid-Analysis/blob/main/30_results/Presentation_Opioid%20Control.pptx) going over our findings in a more succinct way. [Here is a link to our presentation](https://youtu.be/aUk078iBfKs) of the slides.
